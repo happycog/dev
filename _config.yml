@@ -10,6 +10,7 @@ description:         'Description here'
 url:                 http://happycog.github.io/dev/
 baseurl:             ''
 gems:                 [jekyll-paginate]
+gems:                 [github-pages]
 paginate:            5
 
 # About/contact
