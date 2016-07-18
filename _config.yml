@@ -4,8 +4,8 @@
 permalink:           pretty
 
 # Setup
-title:               'Developer Blog'
-tagline:             'Happy Cog'
+title:               'Developers'
+tagline:             '@Happy Cog'
 description:         'Description here'
 url:                 'https://happycog.github.io/dev'
 baseurl:             'https://happycog.github.io/dev'
