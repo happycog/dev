@@ -32,3 +32,7 @@ I like this argument, I've seen it a few times recently. It's clear to me why th
 At the same time, a DSL like CSS allows us to much more susicintly describe things like media queries and and grid systems. I look at the current solutions for "media queries in React" and all I see is added complexity forcing a feature where it doesn't belong.
 
 I'll be the first to drop CSS once we get something better, that's natively supported by the major browsers. Until then, CSS in JavaScript feels like an ugly hack without much added value.
+
+--
+
+Source, [https://medium.com/@david.gilbertson...](https://medium.com/@david.gilbertson/building-a-website-without-css-trials-and-tribulations-5aa30499f57c#.3scw9east)
