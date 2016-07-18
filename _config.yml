@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Happy Cog Dev
 tagline:             'Happy Cog'
 description:         'Description here'
-url:                 'https://happycog.github.io/dev/'
-baseurl:             'https://happycog.github.io/dev/'
+url:                 'https://happycog.github.io/dev'
+baseurl:             'https://happycog.github.io/dev'
 gems:                 [jekyll-paginate]
 paginate:            5
 
