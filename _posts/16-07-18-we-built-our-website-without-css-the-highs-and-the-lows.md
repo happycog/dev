@@ -1,5 +1,5 @@
 ---
-title: We built our website without CSS: the highs and the lows
+title: "We built our website without CSS: the highs and the lows"
 ---
 
 > In the olden days, people would have CSS files with selectors and declarations. Then they would have HTML elements with class names. The styles get applied to an element because the class names in the HTML match the selector in the CSS file.
