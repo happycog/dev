@@ -27,7 +27,7 @@ title: "We built our website without CSS: the highs and the lows"
 >
 > Go find a developer that doesn’t know about CSS and ask them which of these two makes more sense.
 
-I like this argument, I've seen it a few times recently. It's clear to me why the more programattic approach would appeal to the more traditional-computer-science minded. There's a lot to be gained by taking an approach like this too, real logic in the visual layer is huge. Native conditionals that respond to complex business logic sounds like the CSS we've all been waiting for.
+I like this argument, I've seen it a few times recently. It's clear to me why the more programmatic approach would appeal to the more traditional-computer-science minded. There's a lot to be gained by taking an approach like this too, real logic in the visual layer is huge. Native conditionals that respond to complex business logic sounds like the CSS we've all been waiting for.
 
 At the same time, a DSL like CSS allows us to much more susicintly describe things like media queries and and grid systems. I look at the current solutions for "media queries in React" and all I see is added complexity forcing a feature where it doesn't belong.
 
