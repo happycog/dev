@@ -12,4 +12,4 @@ This is the root of my issue with Javascript. There are so many small packages, 
 
 --
 
-Source, [https://medium.com/@thomasfuchs/...](https://medium.com/@thomasfuchs/what-if-we-had-a-great-standard-library-in-javascript-52692342ee3f#.5way7evma)
+Source, [https://medium.com/@thomasfuchs...](https://medium.com/@thomasfuchs/what-if-we-had-a-great-standard-library-in-javascript-52692342ee3f#.5way7evma)
